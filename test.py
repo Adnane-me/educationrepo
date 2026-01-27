@@ -1,2 +1,2 @@
-def say_hello():
-    print(" I love Adnan")
+def test():
+    print("hello world!!")
